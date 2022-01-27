@@ -1,7 +1,7 @@
 - 👋 Hi, I’m my
-- 👀 I’m interested in him
-- 🌱 I’m just asking him
-- 💞️ I’m just following him
+- 👀 I’m interested in
+- 🌱 I’m just asking 
+- 💞️ I’m just following 
 - 📫 
 
 <!---
